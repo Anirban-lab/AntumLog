@@ -14,7 +14,7 @@ The present invention relates to new centralized ledger technology with centrali
 # Publication Information
 Published In: Official Journal of the Patent Office India
 
-Issue: 18/2020 (Part-1)
+Issue: 18/2020 (Part-1) - Link: http://www.ipindia.nic.in/writereaddata/Portal/IPOJournal/1_4863_1/Part-1.pdf
 
 Dated: 01/05/2020
 
